@@ -18,8 +18,9 @@ The raw data required for replication are too large for GitHub (>100 MB) and are
 - `data/WUI_Data.xlsx`
 - `data/CR-UNSC_2024-05-19_ALL_CSV_FULL.csv`
 
-**Download:**
-Contact me so I can provide the data and place them in your local `data/` directory:
+**Data:**
+Contact me so I can provide the data. 
+Place the files in your local `data/` directory:
 
 All other files in the `data/` directory are generated automatically by the notebooks.
 
