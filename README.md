@@ -10,7 +10,18 @@ I apply Latent Dirichlet Allocation to 2,075 UNSC resolutions (1990Q1-2023Q4) an
 
 **World Uncertainty Index (WUI):** Ahir et al. (2022), quarterly data 1990-2023  
 **UNSC Resolutions:** Compiled Record of the UN Security Council (CR-UNSC) by Fobbe (2024)  
-**Data files:** All processed data are included in `data/` directory
+
+**Note on large data files:**
+The raw data required for replication are too large for GitHub (>100 MB) and are therefore **not** included in this repository.
+
+**Required files:**
+- `data/WUI_Data.xlsx`
+- `data/CR-UNSC_2024-05-19_ALL_CSV_FULL.csv`
+
+**Download:**
+Contact me so I can provide the data and place them in your local `data/` directory:
+
+All other files in the `data/` directory are generated automatically by the notebooks.
 
 ## Repository Structure
 
